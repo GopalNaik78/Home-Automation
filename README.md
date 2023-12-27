@@ -3,7 +3,9 @@
 ## Overview
 
 This project involves the design and implementation of a home automation system using embedded systems. The system is built around the ESP32 microcontroller for controller and communication via WiFi and Bluetooth. It allows users to control various home appliances remotely through a user-friendly mobile application.
-![pro](homeApp.jpg)
+<!-- Adjust image size using HTML -->
+<img src="Images/homeApp.jpg" alt="homeApp" width="450" >
+
 ## Features
 
 ### WiFi and Bluetooth Connectivity:
