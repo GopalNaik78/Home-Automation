@@ -29,7 +29,7 @@ Firebase is used as the backend for the system, facilitating real-time communica
 ## Software Setup
 - Clone the repository from GitHub.
     ```bash
-    git clone https://github.com/your-username/home-automation.git
+    git clone https://github.com/GopalNaik78/Home-Automation.git
     cd home-automation
 
 - Open the mobile app project in MIT App Inventor and customize it according to your preferences.
